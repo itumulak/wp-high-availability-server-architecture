@@ -5,6 +5,7 @@
 ## 📖 Overview
 
 This architecture diagram represents a **highly available and scalable WordPress deployment on Amazon Web Services (AWS)**.  
+
 It is designed to ensure **performance, fault tolerance, and data durability** while maintaining separation of concerns across different infrastructure layers.
 
 The setup leverages **AWS managed services** and **auto-scaling compute resources** to handle varying workloads and traffic spikes efficiently.
@@ -14,6 +15,7 @@ The setup leverages **AWS managed services** and **auto-scaling compute resource
 ## 🎯 Goal and Purpose
 
 The main goal of this architecture is to provide a **resilient, fault-tolerant, and horizontally scalable environment** for hosting WordPress.  
+
 It addresses common issues with traditional single-server setups such as:
 - Downtime during traffic surges  
 - Data loss due to server failure  
